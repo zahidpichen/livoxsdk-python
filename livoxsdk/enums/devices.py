@@ -8,8 +8,8 @@ class DeviceType(enum.IntEnum):
     LidarHorizon = 3
     LidarMid70 = 6
     LidarAvia = 7
-#    LidarMid360 = 9
-    LidarCF = 9
+    LidarMid360 = 9
+    # LidarCF = 9
     LidarIndustrialHAP = 10
     LidarHAP = 15
     LidarAP = 16
